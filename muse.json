@@ -1,7 +1,6 @@
 {
   "name": "radio Maria for Muse",
   "version": "0.7",
-  "home_assistant_domain": "slim_player",
   "builds": [
     {
       "chipFamily": "ESP32",
